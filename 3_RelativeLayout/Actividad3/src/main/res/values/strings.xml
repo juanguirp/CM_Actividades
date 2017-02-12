@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">3_RelativeLayout</string>
+    <string name="message_tip">Message</string>
+    <string name="done_button">Done</string>
+    <string name="content_tip">Content Here</string>
+    <string name="discard_button">Discard</string>
+    <string name="submit_button">Submit</string>
+</resources>
