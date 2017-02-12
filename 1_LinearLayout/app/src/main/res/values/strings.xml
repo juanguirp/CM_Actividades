@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">1_LinearLayout</string>
+    <string name="hintName">Ingrese su nombre</string>
+    <string name="btnText">Aceptar</string>
+</resources>
