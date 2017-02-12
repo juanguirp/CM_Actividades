@@ -1,7 +1,7 @@
 # CM_Actividades
 Repositorio para almacenar las actividades realizadas en el curso de Computación Móvil (CM) en el semestre 2017-1
 
-*Link de las actividades 1, 2 y 3*
+*Link de las actividades 1, 2 y 3*  
 **https://docs.google.com/document/d/1FNKVoS2Qq63jNqzdDB-Pdzqhs87RSR-F4OglmhxOXeA/edit#**
 
 1. Actividad con 3 Linear Layouts.
