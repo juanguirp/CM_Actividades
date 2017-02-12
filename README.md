@@ -18,3 +18,8 @@ El layout del medio debe tener mas peso que el resto.
 - Ubique un Button debajo del spinner que está en la parte izquierda de la interfaz y en el texto del interior introduzca la palabra “Done”
 - Debajo del Button anterior ubique un EditText
 - Debajo del EditText ubique 2 botones cuyo ancho se ajuste al contenido interno de los mismos, adicional uno debe estar anclado a la parte derecha de la pantalla y el otro a la parte izquierda.
+
+*Link de las actividad extra*  
+**https://docs.google.com/document/d/13J74SLzbhQeuUMB9QmxRrSB67QVeoa7PwXpB1nv5r3M/edit**
+
+4. Crear un proyecto que tenga compatibilidad de la versión del API 21(Lollipop) en adelante
